@@ -1,9 +1,7 @@
 # read-this-A.S.S-file-to-sorta-get-to-know-me
 # Hi there, I'm Aileen! 👋
 
-**Passionate Interface Architect | Media Economics meets MINT Excellence**
-
-Ich bin eine Brückenbauerin zwischen Technologie, Wirtschaft und dem Faktor Mensch., während ich mein tiefes technologisches Fundament (**1,0 in Informatik & Physik**) nutze, um komplexe Prozesse digital neu zu denken.
+**Passionate Interface Architect | Media Economics meets MINT Enthusiasm**
 
 ---
 
