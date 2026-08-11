@@ -15,7 +15,7 @@
 ### 🛠️ SOOOOOOON: Woran ich ZUKÜNFTIG arbeiten will (Portfolio)
 
 *   **[Astro-Data Workflow Automator](link-zu-deinem-repo):** Ein Python-Skript zur automatisierten Sortierung und Metadaten-Extraktion von Astrofotografie-Rohdaten (basierend auf der Methodik nach F. Sackenheim).
-*   **[LaTeX CV Engine](link-zu-deinem-repo):** Der Quellcode meines eigenen Lebenslaufs. Ein Beweis für meine Kompetenz in strukturierter Dokumentation mit LaTeX und VS Code.
+*   **[LaTeX CV Engine](link-zu-deinem-repo):** Der Quellcode meines eigenen Lebenslaufs. Ein Beweis für meine Kompetenz in strukturierter Dokumentation mit LaTeX und VS Code. - already done!!!!! (wird noch verlinkt)
 *   **[Usability-Testing-Dashboard](link-zu-deinem-repo):** (Work in Progress) Ein Python-basiertes Analysetool zur statistischen Auswertung von Nutzer-Klickpfaden in Power BI.
 *   **[3D-Print Engineering](link-zu-deinem-repo):** Dokumentation meiner CAD-Konstruktionen (Fusion 360) für astronomisches Equipment.
 
