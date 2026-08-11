@@ -27,9 +27,9 @@
 | :--- | :--- |
 | **Programmierung** | Python (Automation), LaTeX, Markdown |
 | **Daten & Analyse** | Power BI, Excel (Advanced), SQL (in Aneignung) |
-| **Design & UX** | Figma, Canva, DaVinci Resolve, UI/UX-Evaluation |
+| **Design & UX** (mostly done) | Figma, Canva, DaVinci Resolve, UI/UX-Evaluation |
 | **Engineering** | Fusion 360 (CAD), 3D-Druck (Slicing/Materialkunde) |
-| **Management** | Jira, Confluence, Notion, Kanban (agile Methoden) |
+| **Management**(Notion & Kanban done) | Jira, Confluence, Notion, Kanban (agile Methoden) |
 
 ---
 
