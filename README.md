@@ -35,7 +35,7 @@
 
 ### 🌌 Fun Facts & Passionen
 - ✨ **Astro-Nerd:** Ich kalibriere meine Kameras (soon) lieber nach Sensortemperaturen als nach dem Wetterbericht.
-- 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanisch, traditionelle Architektur goated; Teezeremonie und Samurai in einem verlassenen dorf in der natur japans und auf der katzeninsel (animes goated also).
+- 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur goated; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
 - 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder Sterne fotografiere (rookie, bin absoluter amateur but eager to learn) , spiele ich E-Gitarre und singe.
 
 ---
