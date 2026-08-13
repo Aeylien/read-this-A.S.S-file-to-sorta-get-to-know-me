@@ -18,7 +18,7 @@
 *   **[LaTeX CV Engine](link-zu-deinem-repo):** Der Quellcode meines eigenen Lebenslaufs. Ein Beweis für meine Kompetenz in strukturierter Dokumentation mit LaTeX und VS Code. - already done!!!!! (wird noch verlinkt)
 *   **[Usability-Testing-Dashboard](link-zu-deinem-repo):** (Work in Progress) Ein Python-basiertes Analysetool zur statistischen Auswertung von Nutzer-Klickpfaden in Power BI.
 *   **[3D-Print Engineering](link-zu-deinem-repo):** Dokumentation meiner CAD-Konstruktionen (Fusion 360) für astronomisches Equipment.
-achja. und eine Website fürs min maxxing möchte ich ggf. auch noch erstellen (mit linktree und Portfolio Daten etc.)
+*   ** ° achja. und eine Website fürs min maxxing möchte ich (ggf.) auch noch erstellen (mit Linktree und Portfolio Projektdaten etc.)
 ---
 
 ### 💻 Tech Stack & Tools in autodidaktischer Aneignung, in progress....
@@ -36,12 +36,12 @@ achja. und eine Website fürs min maxxing möchte ich ggf. auch noch erstellen (
 ### 🌌 Fun Facts & Passionen
 - ✨ **Astro-Nerd:** Ich kalibriere meine Kameras (soon) lieber nach Sensortemperaturen als nach dem Wetterbericht.
 - 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur ist super interessant ! ; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
-- 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder Sterne fotografiere (rookie, bin absoluter amateur but eager to learn) , spiele ich E-Gitarre und singe.
+- 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder Sterne fotografiere (rookie, bin absoluter amateur but eager to learn) , spiele ich E-Gitarre, singe befasse mich mit sozialkritischen Themen (insbesondere medialer Natur) und lese viel.
 
 ---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/aileensharon-winkelmann](https://www.linkedin.com/in/aileensharon-winkelmann-a7a183233)
-- **Portfolio:** Schau dir gerne meine Repositories an, um einen Einblick in meine Arbeitsweise zu erhalten.
+- **Portfolio:** (soon to be updated) Schau dir gerne meine Repositories an, um einen Einblick in meine Arbeitsweise zu erhalten.
 
-*"Vom Perseiden-Maximum bis zur Innovationsförderung – alles ist eine Frage der richtigen Datenstruktur."*
+*"Vom Perseiden-Maximum bis zur Innovationsförderung – alles ist eine Frage der richtigen Datenstruktur, oder?."*
