@@ -1,7 +1,7 @@
 # read-this-A.S.S-file-to-sorta-get-to-know-me
 # Hi there, I'm Aileen! 👋
 
-Passionate Interface Architect (fun fact: actually bin ich laut 16 Personalities Test INTJ-A (Assertive Architect, wow...) -> Triviawissen; i know)
+Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 Personalities Test INTJ-A (Assertive Architect, wow...) -> Triviawissen; i know)
 
 *  ** °°| Media Economics/Business meets MINT & AI Enthusiasm |°° 
 
@@ -35,7 +35,7 @@ Passionate Interface Architect (fun fact: actually bin ich laut 16 Personalities
 
 ---
 
-### 🌌 Fun Facts & Passionen
+### 🌌 weitere Fun Facts & Passionen
 - ✨ **Astro-Nerd:** Ich kalibriere meine Kameras (soon) lieber nach Sensortemperaturen als nach dem Wetterbericht.
 - 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur ist super interessant ! ; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
 - 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder dem Astronomie Rabbit hole verfallen bin (schuldig im Sinne der Anklage -> relativer rookie btw , bin absoluter Amateur but eager to learn) , spiele ich E-Gitarre, singe und befasse mich mit sozialkritischen Themen (insbesondere medialer Natur) + lese viel. Waldbaden und touching grass ist ebenfalls eine persönliche Empfehlung (get out there nerds) !
@@ -46,5 +46,5 @@ Passionate Interface Architect (fun fact: actually bin ich laut 16 Personalities
 - **LinkedIn:** [linkedin.com/in/aileensharon-winkelmann](https://www.linkedin.com/in/aileensharon-winkelmann-a7a183233)
 - **Portfolio:** (soon to be updated) Schau dir gerne meine Repositories an, um einen Einblick in meine Arbeitsweise zu erhalten.
 
-* ** "Alles" ist (sort of) eine Frage der richtigen Datenstruktur, oder?"* -> Ich weiß, dass ich nichts weiß - Seneca.
-* ** -> continuously be curious and learn from other people
+*  "Alles" ist (sort of) eine Frage der richtigen Datenstruktur, oder?" -> Ich weiß, dass ich nichts weiß - Seneca.
+*  -> continuously be curious and learn from other people
