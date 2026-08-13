@@ -1,7 +1,7 @@
 # read-this-A.S.S-file-to-sorta-get-to-know-me
 # Hi there, I'm Aileen! 👋
 
-**Passionate Interface Architect (fun fact: actually bin ich laut 16 Personalities Test INTJ-A -> Triviawissen; i know)
+Passionate Interface Architect (fun fact: actually bin ich laut 16 Personalities Test INTJ-A -> Triviawissen; i know)
 
 *  ** °°| Media Economics/Business meets MINT & AI Enthusiasm |°° 
 
