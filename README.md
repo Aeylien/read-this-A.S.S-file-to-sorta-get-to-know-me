@@ -3,7 +3,7 @@
 
 Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 Personalities Test INTJ-A (Assertive Architect, wow...) -> Triviawissen; i know)
 
-*  ** °°| Media Economics/Business meets MINT & AI Enthusiasm |°° 
+*  °°| Media Economics/Business meets MINT & AI Enthusiasm |°° 
 
 ---
 
@@ -46,5 +46,5 @@ Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 
 - **LinkedIn:** [linkedin.com/in/aileensharon-winkelmann](https://www.linkedin.com/in/aileensharon-winkelmann-a7a183233)
 - **Portfolio:** (soon to be updated) Schau dir gerne meine Repositories an, um einen Einblick in meine Arbeitsweise zu erhalten.
 
-*  "Alles" ist (sort of) eine Frage der richtigen Datenstruktur, oder?" -> Ich weiß, dass ich nichts weiß - Seneca.
+*  "Alles" ist (sort of) eine Frage der richtigen Datenstruktur, oder? -> Ich weiß, dass ich nichts weiß - Seneca.
 *  -> continuously be curious and learn from other people
