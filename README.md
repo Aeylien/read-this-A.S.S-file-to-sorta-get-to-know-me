@@ -7,7 +7,7 @@
 
 ### 🚀 Meine Vision & Ziele
 
-- 🛰️ **Mission:** Aktive Mitgestaltung von Innovationsstrategien und Produktvirtualisierungen beim **DLR**.
+- 🛰️ **Mission:** Aktive Mitgestaltung von Innovationsstrategien und Produktvirtualisierungen (hopefully) beim **DLR** oder ähnlichen Forschungseinrichtungen.
 - 🧠 **Fokus:** Wie können wir Software-Interfaces (HCI) so gestalten, dass sie in hochkomplexen Umgebungen – vom Cockpit bis zur Forschungsdatenbank – intuitiv funktionieren?
 
 ---
@@ -18,14 +18,14 @@
 *   **[LaTeX CV Engine](link-zu-deinem-repo):** Der Quellcode meines eigenen Lebenslaufs. Ein Beweis für meine Kompetenz in strukturierter Dokumentation mit LaTeX und VS Code. - already done!!!!! (wird noch verlinkt)
 *   **[Usability-Testing-Dashboard](link-zu-deinem-repo):** (Work in Progress) Ein Python-basiertes Analysetool zur statistischen Auswertung von Nutzer-Klickpfaden in Power BI.
 *   **[3D-Print Engineering](link-zu-deinem-repo):** Dokumentation meiner CAD-Konstruktionen (Fusion 360) für astronomisches Equipment.
-
+achja. und eine Website fürs min maxxing möchte ich ggf. auch noch erstellen (mit linktree und Portfolio Daten etc.)
 ---
 
 ### 💻 Tech Stack & Tools in autodidaktischer Aneignung, in progress....
 
 | Bereich | Tools & Sprachen |
 | :--- | :--- |
-| **Programmierung** | Python (Automation), LaTeX, Markdown |
+| **Programmierung** | Python (Automation), LaTeX, Markdown, HTML, JavaScript |
 | **Daten & Analyse** | Power BI, Excel (Advanced), SQL (in Aneignung) |
 | **Design & UX** (mostly done) | Figma, Canva, DaVinci Resolve, UI/UX-Evaluation |
 | **Engineering** | Fusion 360 (CAD), 3D-Druck (Slicing/Materialkunde) |
@@ -35,7 +35,7 @@
 
 ### 🌌 Fun Facts & Passionen
 - ✨ **Astro-Nerd:** Ich kalibriere meine Kameras (soon) lieber nach Sensortemperaturen als nach dem Wetterbericht.
-- 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur goated; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
+- 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur ist super interessant ! ; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
 - 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder Sterne fotografiere (rookie, bin absoluter amateur but eager to learn) , spiele ich E-Gitarre und singe.
 
 ---
