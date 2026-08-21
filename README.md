@@ -1,5 +1,5 @@
-# read-this-A.S.S-file-to-sorta-get-to-know-me
-# Hi there, I'm Aileen! 👋
+# read-this-file-to-sorta-get-to-know-me
+# Hi there, I'm Aileen! ☄️👋🏻
 
 Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 Personalities Test INTJ-A (Assertive Architect, wow...) -> Triviawissen; i know)
 
